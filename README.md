@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Midhilesh Momidi
-- 👀 I’m interested in Machine Learning Engineering and currently learning Backend Django
+- 👀 I work as MLE @ DELL. Learning Data Engineering and Software Engineering.
 - 🌱 Eager to learn new tech stacks
-- 💞️ I’m looking to collaborate on ML Engineering, Data Science 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/midhilesh-momidi-136462135/)
 
 <!---
