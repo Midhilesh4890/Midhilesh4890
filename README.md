@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Midhilesh Momidi
-- 👀 I work as Senior MLE @ DELL. Learning Data Engineering and Software Engineering.
+- 👀 I work as Senior MLE @ Walmart. Learning Data Engineering and Software Engineering.
 - 🌱 Eager to learn new tech stacks
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/midhilesh-momidi-136462135/)
 
