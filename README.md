@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Midhilesh Momidi
-- 👀 I work as Senior MLE @ Microsoft. Learning Data Engineering and Software Engineering.
+- 👀 I work as Senior MLE @ Microsoft
 - 🌱 Eager to learn new tech stacks
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/midhilesh-momidi-136462135/)
 
